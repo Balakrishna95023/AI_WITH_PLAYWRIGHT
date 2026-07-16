@@ -1,0 +1,454 @@
+python test_deepeval.py
+✨ You're running DeepEval's latest Answer 
+Relevancy Metric! (using llama3.2:3b, 
+strict=False, async_mode=True)...
+✨ You're running DeepEval's latest Faithfulness
+Metric! (using llama3.2:3b, strict=False, 
+async_mode=True)...
+✨ You're running DeepEval's latest 
+Hallucination Metric! (using llama3.2:3b, 
+strict=False, async_mode=True)...
+✨ You're running DeepEval's latest Contextual 
+Relevancy Metric! (using llama3.2:3b, 
+strict=False, async_mode=True)...
+✨ You're running DeepEval's latest Contextual 
+Precision Metric! (using llama3.2:3b, 
+strict=False, async_mode=True)...
+✨ You're running DeepEval's latest Contextual 
+Recall Metric! (using llama3.2:3b, strict=False,
+async_mode=True)...
+✨ You're running DeepEval's latest Toxicity 
+Metric! (using llama3.2:3b, strict=False, 
+async_mode=True)...
+✨ You're running DeepEval's latest Bias Metric!
+(using llama3.2:3b, strict=False, 
+async_mode=True)...
+✨ You're running DeepEval's latest 
+Summarization Metric! (using llama3.2:3b, 
+strict=False, async_mode=True)...
+✨ You're running DeepEval's latest Playwright 
+Response Quality [GEval] Metric! (using 
+llama3.2:3b, strict=False, async_mode=True)...
+{
+  "statements": [
+    "Playwright is an open-source browser 
+automation framework.",
+    "It was developed by Microsoft.",
+    "It supports Chromium, Firefox, and WebKit 
+browsers."
+  ]
+}
+Based on the input provided, here's a JSON 
+object containing verdicts for each statement:
+
+```
+{
+  "verdicts": [
+    {
+      "verdict": "yes"
+    },
+    {
+      "reason": "It does not provide information
+about its development company.",
+      "verdict": "no"
+    },
+    {
+      "reason": "It provides general information
+about Playwright's features but does not address
+the input question directly.",
+      "verdict": "idk"
+    }
+  ]
+}
+```
+{"reason": "The score is 0.67 because the input 
+only asked for a brief description of 
+Playwright, but the actual output provided 
+additional details about its features and 
+capabilities, making it somewhat relevant to the
+question, yet still containing irrelevant 
+information like the development company."}
+{"verdicts": [{"verdict": "no", "reason": "The 
+actual output explicitly contradicts the context
+which states that Playwright is a framework for 
+reliable end-to-end browser automation, as it 
+was developed by Microsoft, not an open-source 
+framework."}]}
+{
+  "reason": "The score is 1.00 because one 
+factual contradiction found between the actual 
+output and context indicates hallucination."
+}
+Here's the JSON output with verdicts for each 
+context:
+
+```
+{
+  "verdicts": [
+    {
+      "reason": "This text directly addresses 
+the question by providing a definition of 
+Playwright.",
+      "verdict": "yes"
+    },
+    {
+      "reason": "The provided information about 
+the platform being open-source and developed by 
+Microsoft verifies that it is indeed the subject
+of the query.",
+      "verdict": "yes"
+    },
+    {
+      "reason": "This statement expands on what 
+Playwright is commonly used for, providing more 
+context to support the answer.",
+      "verdict": "yes"
+    },
+    {
+      "reason": "This final statement provides 
+additional context about Microsoft's involvement
+with Playwright, further supporting the 
+definition provided earlier.",
+      "verdict": "yes"
+    }
+  ]
+}
+```
+{
+  "reason": "The score of 1.00 indicates that 
+all retrieval contexts have relevant nodes 
+ranked higher than irrelevant nodes. The reason 
+for this is that each 'no' verdict corresponds 
+to a node in retrieval context 4, which has a 
+lower rank (4th) compared to the highest ranking
+nodes with a 'yes' verdict. Therefore, the 
+contextual precision score is at its current 
+score because the information provided by nodes 
+in retrieval contexts 1-3 directly supports the 
+answer and are ranked higher than the less 
+relevant node in retrieval context 4."
+Given the provided expected output:
+
+    Playwright is a browser automation framework
+created by Microsoft.
+    It allows developers and testers to automate
+web applications
+    across Chromium, Firefox, and WebKit 
+browsers.
+
+Retrieval Context:
+['\n        Playwright is an open-source browser
+automation framework\n        developed by 
+Microsoft.\n\n        It supports Chromium, 
+Firefox, and WebKit.\n\n        Playwright is 
+commonly used for end-to-end testing,\n        
+web automation, and browser testing.\n        ']
+
+Here's the list of JSON responses:
+
+```json
+{
+  "verdicts": [
+    {
+      "verdict": "yes",
+      "reason": "The sentence can be attributed 
+to the retrieval context as it shares a similar 
+structure with the first part: 'Playwright is an
+open-source browser automation framework ...'"
+    },
+    {
+      "verdict": "yes",
+      "reason": "This sentence can be linked to 
+the retrieval context as it directly relates to 
+the information presented in 'It supports 
+Chromium, Firefox, and WebKit.'"
+    },
+    {
+      "verdict": "no",
+      "reason": "The provided sentence doesn't 
+contain any matching information from the 
+retrieval context as it's more about browser 
+automation framework details."
+    }
+  ]
+}
+```
+
+Please note that I've attempted to provide a 
+brief explanation for each verdict in the 
+`reason` field. If you'd like me to make any 
+adjustments, please let me know!
+{
+  "reason": "The score is 0.67 because while 
+some details are shared between the expected 
+output and retrieval context, specific 
+information such as browser automation framework
+details were not present in the retrieval 
+context, which limits its relevance."
+}
+{"opinions": []}
+{
+  "reason": "The score is 0.00 because the 
+actual output has no explicit toxic language or 
+phrases."
+}
+{
+  "opinions": [] }
+{
+  "reason": "The score is 0.00 because there are
+no identified biases in the actual output."
+}
+{
+  "truths": [
+    "Playwright is an open-source browser 
+automation framework.",
+    "Microsoft developed Playwright.",
+    "Playwright supports Chromium, Firefox, and 
+WebKit.",
+    "Playwright is commonly used for end-to-end 
+testing, web automation, and browser testing."
+  ]
+}
+{
+  "claims": [
+    "Playwright is an open-source browser 
+automation framework developed by Microsoft.",
+    "It supports Chromium, Firefox, and WebKit 
+browsers.",
+    "It is used for end-to-end testing and web 
+automation."
+  ]
+}
+{
+  "verdicts": [
+    {
+      "statement": "Playwright is an open-source
+browser automation framework developed by 
+Microsoft",
+      "verdict": "yes"
+    },
+    {
+      "statement": "It supports Chromium, 
+Firefox, and WebKit.",
+      "reason": "The retrieval context contained
+the information 'It supports Chromium, Firefox, 
+and WebKit.' which is related to the 
+capabilities of Playwright rather than its 
+definition.",
+      "verdict": "yes"
+    },
+    {
+      "statement": "Playwright is commonly used 
+for end-to-end testing, web automation, and 
+browser testing",
+      "verdict": "yes"
+    }
+  ]
+}
+{
+  "truths": [
+    "Playwright is an open source browser 
+automation framework."
+  ]
+}
+{
+  "claims": [
+    "Playwright is an open-source browser 
+automation framework",
+    "developed by Microsoft",
+    "It supports Chromium, Firefox, and WebKit 
+browsers.",
+    "It is used for end-to-end testing and web 
+automation."
+  ]
+}
+```json
+{
+  "verdicts": [
+    {
+      "verdict": "no"
+    },
+    {
+      "reason": "Microsoft developed 
+Playwright.", 
+      "verdict": "no"
+    },
+    {
+      "verdict": "yes"
+    }
+  ]
+}
+```
+
+Explanation:
+
+Claim 1: 'Playwright is an open-source browser 
+automation framework developed by Microsoft.' - 
+Contradicts the retrieval context because it 
+states Microsoft as the developer, but according
+to the context, Playwright is open-source and 
+the developer is not specified.
+
+Claim 2: 'It supports Chromium, Firefox, and 
+WebKit browsers.' - This is true based on the 
+retrieval context.
+
+Claim 3: 'It is used for end-to-end testing and 
+web automation.' - This is also true according 
+to the retrieval context.
+{
+  "reason": "The score is 0.33 because Microsoft
+did not develop Playwright, contradicting the 
+retrieval context."
+}
+{
+  "reason": "The score is 1.00 because the input
+question 'What is Playwright?' directly matches 
+one of the relevant statements in the retrieval 
+context, with no information provided about 
+other contexts that would impact relevance."
+}
+Based on the provided text, here are 5 
+closed-ended questions that can be answered with
+either "yes" or "no", and will always result in 
+a "yes":
+
+```json
+{
+  "questions": [
+    "Is Playwright mentioned in the given 
+text?",
+    "Is the mention of Playwright related to its
+functionality?",
+    "Is the question about Playwright's 
+characteristics explicitly stated?",
+    "Is the answer 'yes' to the question about 
+visibility of details?",
+    "Is the text providing information on 
+Playwright's existence?"
+  ]
+}
+```
+
+These questions are designed to be answered with
+a "yes" based solely on the fact that Playwright
+is mentioned in the text.
+Here is the JSON response:
+
+{
+  "verdicts": [
+    {
+      "verdict": "yes"
+    },
+    {
+      "verdict": "idk",
+      "reason": "The original text does not 
+mention Microsoft as the developer, only states 
+it was created as an open-source browser 
+automation framework."
+    },
+    {
+      "verdict": "yes"
+    },
+    {
+      "verdict": "yes"
+    },
+    {
+      "verdict": "idk",
+      "reason": "The original text does not 
+mention which browsers are supported, only 
+states that it supports Chromium, Firefox, and 
+WebKit browsers."
+    }
+  ]
+}
+    🎯 Evaluating test case #0 ━━━━╺  80% 0:12:…
+```json
+{
+  "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+  ]
+}
+```
+
+This JSON object has a 'answers' key with a list of strings, where each string is either 'yes' or 'no', corresponding to the provided questions. In this case, since there is no information about Playwright in the given text, all answers are marked as 'no'.
+```json
+{
+  "answers": [
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes"
+  ]
+}
+```
+
+This JSON output indicates that:
+
+- The text does indeed mention Playwright (answer to the first question is 'yes').
+- The mention of Playwright is related to its functionality, as it mentions being used for end-to-end testing and web automation (second answeris 'yes').
+- The question about Playwright's characteristics explicitly stated is not answered by the provided text (third answer is 'no').
+- The visibility of details regarding Playwright cannot be confirmed with certainty due to lackof visual evidence or explicit statement in thegiven text (fourth answer is 'no').
+- The answer to the question asking if the textprovides information on Playwright's existence is affirmative, as it describes its development and supported browsers (fifth answer is 'yes').
+Traceback (most recent call last):
+  File "C:\Users\balak\AppData\Roaming\uv\python\cpython-3.13.12-windows-x86_64-none\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\pycharmRobot\Deep_eval\.venv\Lib\site-packages\deepeval\evaluate\execute\e2e.py", line 352, in execute_with_semaphore
+    return await _await_with_outer_deadline(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, *args, timeout=get_per_task_timeout_seconds(), **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\pycharmRobot\Deep_eval\.venv\Lib\site-packages\deepeval\evaluate\execute\_common.py", line 238, in _await_with_outer_deadline
+    return await asyncio.wait_for(coro, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\balak\AppData\Roaming\uv\python\cpython-3.13.12-windows-x86_64-none\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\pycharmRobot\Deep_eval\.venv\Lib\site-packages\deepeval\evaluate\execute\e2e.py", line 578, in _a_execute_llm_test_cases
+    await measure_metrics_with_indicator(
+    ...<8 lines>...
+    )
+  File "D:\pycharmRobot\Deep_eval\.venv\Lib\site-packages\deepeval\metrics\indicator.py", line 238, in measure_metrics_with_indicator
+    await asyncio.gather(*tasks)
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of thefollowing exception:
+
+Traceback (most recent call last):
+  File "D:\pycharmRobot\Deep_eval\test_deepeval.py", line 182, in <module>
+    evaluate(
+    ~~~~~~~~^
+        test_cases=[
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        metrics=metrics
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\pycharmRobot\Deep_eval\.venv\Lib\site-packages\deepeval\evaluate\evaluate.py", line 205, in evaluate
+    test_results = loop.run_until_complete(
+        a_execute_test_cases(
+    ...<7 lines>...
+        )
+    )
+  File "C:\Users\balak\AppData\Roaming\uv\python\cpython-3.13.12-windows-x86_64-none\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "D:\pycharmRobot\Deep_eval\.venv\Lib\site-packages\deepeval\evaluate\execute\e2e.py", line 449, in a_execute_test_cases
+    await asyncio.wait_for(
+    ...<2 lines>...
+    )
+  File "C:\Users\balak\AppData\Roaming\uv\python\cpython-3.13.12-windows-x86_64-none\Lib\asyncio\tasks.py", line 506, in wait_for
+    async with timeouts.timeout(timeout):
+               ~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\balak\AppData\Roaming\uv\python\cpython-3.13.12-windows-x86_64-none\Lib\asyncio\timeouts.py", line 116, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
