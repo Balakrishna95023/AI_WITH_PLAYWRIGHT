@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "1",
+    "content": "\nElement Type: a\nText: Skip to content\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: px-2 tmp-py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content\nValue: \nHref: #start-of-content\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "px-2 tmp-py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content",
+      "value": "",
+      "href": "#start-of-content",
+      "title": "",
+      "role": "",
+      "text": "Skip to content"
+    }
+  },
+  {
+    "id": "2",
+    "content": "\nElement Type: button\nText: Toggle navigation\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: Toggle navigation\nClass: HeaderMktg-backdrop d-lg-none border-0 position-fixed top-0 left-0 width-full height-full js-details-target\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "Toggle navigation",
+      "class": "HeaderMktg-backdrop d-lg-none border-0 position-fixed top-0 left-0 width-full height-full js-details-target",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Toggle navigation"
+    }
+  },
+  {
+    "id": "3",
+    "content": "\nElement Type: button\nText: \nID: \nName: \nType: button\nPlaceholder: \nARIA Label: Toggle navigation\nClass: js-details-target js-nav-padding-recalculate js-header-menu-toggle Button--link Button--medium Button d-lg-none color-fg-inherit p-1 tmp-p-1\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "Toggle navigation",
+      "class": "js-details-target js-nav-padding-recalculate js-header-menu-toggle Button--link Button--medium Button d-lg-none color-fg-inherit p-1 tmp-p-1",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "4",
+    "content": "\nElement Type: a\nText: \nID: \nName: \nType: \nPlaceholder: \nARIA Label: Homepage\nClass: tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav\nValue: \nHref: /\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "Homepage",
+      "class": "tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav",
+      "value": "",
+      "href": "/",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "5",
+    "content": "\nElement Type: a\nText: Sign in\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav\nValue: \nHref: /login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav",
+      "value": "",
+      "href": "/login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023",
+      "title": "",
+      "role": "",
+      "text": "Sign in"
+    }
+  },
+  {
+    "id": "6",
+    "content": "\nElement Type: button\nText: \nID: icon-button-7f9f42e3-6807-4ba8-9c10-e761546f752e\nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "icon-button-7f9f42e3-6807-4ba8-9c10-e761546f752e",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "7",
+    "content": "\nElement Type: button\nText: Platform\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: NavDropdown-module__button__PEHWX js-details-target\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavDropdown-module__button__PEHWX js-details-target",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Platform"
+    }
+  },
+  {
+    "id": "8",
+    "content": "\nElement Type: a\nText: GitHub CopilotWrite better code with AI\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/features/copilot\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/features/copilot",
+      "title": "",
+      "role": "",
+      "text": "GitHub CopilotWrite better code with AI"
+    }
+  },
+  {
+    "id": "9",
+    "content": "\nElement Type: a\nText: GitHub Copilot appDirect agents from issue to merge\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/features/ai/github-app\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/features/ai/github-app",
+      "title": "",
+      "role": "",
+      "text": "GitHub Copilot appDirect agents from issue to merge"
+    }
+  },
+  {
+    "id": "10",
+    "content": "\nElement Type: a\nText: MCP RegistryNewIntegrate external tools\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/mcp\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/mcp",
+      "title": "",
+      "role": "",
+      "text": "MCP RegistryNewIntegrate external tools"
+    }
+  },
+  {
+    "id": "11",
+    "content": "\nElement Type: a\nText: ActionsAutomate any workflow\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/features/actions\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/features/actions",
+      "title": "",
+      "role": "",
+      "text": "ActionsAutomate any workflow"
+    }
+  },
+  {
+    "id": "12",
+    "content": "\nElement Type: a\nText: CodespacesInstant dev environments\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/features/codespaces\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/features/codespaces",
+      "title": "",
+      "role": "",
+      "text": "CodespacesInstant dev environments"
+    }
+  },
+  {
+    "id": "13",
+    "content": "\nElement Type: a\nText: IssuesPlan and track work\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/features/issues\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/features/issues",
+      "title": "",
+      "role": "",
+      "text": "IssuesPlan and track work"
+    }
+  },
+  {
+    "id": "14",
+    "content": "\nElement Type: a\nText: Code ReviewManage code changes\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/features/code-review\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/features/code-review",
+      "title": "",
+      "role": "",
+      "text": "Code ReviewManage code changes"
+    }
+  },
+  {
+    "id": "15",
+    "content": "\nElement Type: a\nText: GitHub Advanced SecurityFind and fix vulnerabilities\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/security/advanced-security\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/security/advanced-security",
+      "title": "",
+      "role": "",
+      "text": "GitHub Advanced SecurityFind and fix vulnerabilities"
+    }
+  },
+  {
+    "id": "16",
+    "content": "\nElement Type: a\nText: Code securitySecure your code as you build\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/security/advanced-security/code-security\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/security/advanced-security/code-security",
+      "title": "",
+      "role": "",
+      "text": "Code securitySecure your code as you build"
+    }
+  },
+  {
+    "id": "17",
+    "content": "\nElement Type: a\nText: Secret protectionStop leaks before they start\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/security/advanced-security/secret-protection\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/security/advanced-security/secret-protection",
+      "title": "",
+      "role": "",
+      "text": "Secret protectionStop leaks before they start"
+    }
+  },
+  {
+    "id": "18",
+    "content": "\nElement Type: a\nText: Why GitHub\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/why-github\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/why-github",
+      "title": "",
+      "role": "",
+      "text": "Why GitHub"
+    }
+  },
+  {
+    "id": "19",
+    "content": "\nElement Type: a\nText: Documentation\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://docs.github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://docs.github.com",
+      "title": "",
+      "role": "",
+      "text": "Documentation"
+    }
+  },
+  {
+    "id": "20",
+    "content": "\nElement Type: a\nText: Blog\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.blog\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.blog",
+      "title": "",
+      "role": "",
+      "text": "Blog"
+    }
+  },
+  {
+    "id": "21",
+    "content": "\nElement Type: a\nText: Changelog\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.blog/changelog\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.blog/changelog",
+      "title": "",
+      "role": "",
+      "text": "Changelog"
+    }
+  },
+  {
+    "id": "22",
+    "content": "\nElement Type: a\nText: Marketplace\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/marketplace\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/marketplace",
+      "title": "",
+      "role": "",
+      "text": "Marketplace"
+    }
+  },
+  {
+    "id": "23",
+    "content": "\nElement Type: a\nText: View all features\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/features\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/features",
+      "title": "",
+      "role": "",
+      "text": "View all features"
+    }
+  },
+  {
+    "id": "24",
+    "content": "\nElement Type: button\nText: Solutions\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: NavDropdown-module__button__PEHWX js-details-target\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavDropdown-module__button__PEHWX js-details-target",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Solutions"
+    }
+  },
+  {
+    "id": "25",
+    "content": "\nElement Type: a\nText: Enterprises\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/enterprise\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/enterprise",
+      "title": "",
+      "role": "",
+      "text": "Enterprises"
+    }
+  },
+  {
+    "id": "26",
+    "content": "\nElement Type: a\nText: Small and medium teams\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/team\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/team",
+      "title": "",
+      "role": "",
+      "text": "Small and medium teams"
+    }
+  },
+  {
+    "id": "27",
+    "content": "\nElement Type: a\nText: Startups\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/enterprise/startups\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/enterprise/startups",
+      "title": "",
+      "role": "",
+      "text": "Startups"
+    }
+  },
+  {
+    "id": "28",
+    "content": "\nElement Type: a\nText: Nonprofits\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/industry/nonprofits\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/industry/nonprofits",
+      "title": "",
+      "role": "",
+      "text": "Nonprofits"
+    }
+  },
+  {
+    "id": "29",
+    "content": "\nElement Type: a\nText: App Modernization\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/use-case/app-modernization\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/use-case/app-modernization",
+      "title": "",
+      "role": "",
+      "text": "App Modernization"
+    }
+  },
+  {
+    "id": "30",
+    "content": "\nElement Type: a\nText: DevSecOps\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/use-case/devsecops\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/use-case/devsecops",
+      "title": "",
+      "role": "",
+      "text": "DevSecOps"
+    }
+  },
+  {
+    "id": "31",
+    "content": "\nElement Type: a\nText: DevOps\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/use-case/devops\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/use-case/devops",
+      "title": "",
+      "role": "",
+      "text": "DevOps"
+    }
+  },
+  {
+    "id": "32",
+    "content": "\nElement Type: a\nText: CI/CD\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/use-case/ci-cd\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/use-case/ci-cd",
+      "title": "",
+      "role": "",
+      "text": "CI/CD"
+    }
+  },
+  {
+    "id": "33",
+    "content": "\nElement Type: a\nText: View all use cases\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/use-case\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/use-case",
+      "title": "",
+      "role": "",
+      "text": "View all use cases"
+    }
+  },
+  {
+    "id": "34",
+    "content": "\nElement Type: a\nText: Healthcare\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/industry/healthcare\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/industry/healthcare",
+      "title": "",
+      "role": "",
+      "text": "Healthcare"
+    }
+  },
+  {
+    "id": "35",
+    "content": "\nElement Type: a\nText: Financial services\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/industry/financial-services\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/industry/financial-services",
+      "title": "",
+      "role": "",
+      "text": "Financial services"
+    }
+  },
+  {
+    "id": "36",
+    "content": "\nElement Type: a\nText: Manufacturing\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/industry/manufacturing\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/industry/manufacturing",
+      "title": "",
+      "role": "",
+      "text": "Manufacturing"
+    }
+  },
+  {
+    "id": "37",
+    "content": "\nElement Type: a\nText: Government\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/industry/government\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/industry/government",
+      "title": "",
+      "role": "",
+      "text": "Government"
+    }
+  },
+  {
+    "id": "38",
+    "content": "\nElement Type: a\nText: View all industries\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/industry\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/industry",
+      "title": "",
+      "role": "",
+      "text": "View all industries"
+    }
+  },
+  {
+    "id": "39",
+    "content": "\nElement Type: a\nText: View all solutions\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions",
+      "title": "",
+      "role": "",
+      "text": "View all solutions"
+    }
+  },
+  {
+    "id": "40",
+    "content": "\nElement Type: button\nText: Resources\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: NavDropdown-module__button__PEHWX js-details-target\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavDropdown-module__button__PEHWX js-details-target",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Resources"
+    }
+  },
+  {
+    "id": "41",
+    "content": "\nElement Type: a\nText: AI\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/resources/articles?topic=ai\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/resources/articles?topic=ai",
+      "title": "",
+      "role": "",
+      "text": "AI"
+    }
+  },
+  {
+    "id": "42",
+    "content": "\nElement Type: a\nText: Software Development\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/resources/articles?topic=software-development\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/resources/articles?topic=software-development",
+      "title": "",
+      "role": "",
+      "text": "Software Development"
+    }
+  },
+  {
+    "id": "43",
+    "content": "\nElement Type: a\nText: DevOps\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/resources/articles?topic=devops\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/resources/articles?topic=devops",
+      "title": "",
+      "role": "",
+      "text": "DevOps"
+    }
+  },
+  {
+    "id": "44",
+    "content": "\nElement Type: a\nText: Security\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/resources/articles?topic=security\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/resources/articles?topic=security",
+      "title": "",
+      "role": "",
+      "text": "Security"
+    }
+  },
+  {
+    "id": "45",
+    "content": "\nElement Type: a\nText: View all topics\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/resources/articles\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/resources/articles",
+      "title": "",
+      "role": "",
+      "text": "View all topics"
+    }
+  },
+  {
+    "id": "46",
+    "content": "\nElement Type: a\nText: Customer stories\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/customer-stories\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/customer-stories",
+      "title": "",
+      "role": "",
+      "text": "Customer stories"
+    }
+  },
+  {
+    "id": "47",
+    "content": "\nElement Type: a\nText: Events & webinars\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/resources/events\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/resources/events",
+      "title": "",
+      "role": "",
+      "text": "Events & webinars"
+    }
+  },
+  {
+    "id": "48",
+    "content": "\nElement Type: a\nText: Ebooks & reports\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/resources/whitepapers\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/resources/whitepapers",
+      "title": "",
+      "role": "",
+      "text": "Ebooks & reports"
+    }
+  },
+  {
+    "id": "49",
+    "content": "\nElement Type: a\nText: Business insights\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/solutions/executive-insights\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/solutions/executive-insights",
+      "title": "",
+      "role": "",
+      "text": "Business insights"
+    }
+  },
+  {
+    "id": "50",
+    "content": "\nElement Type: a\nText: GitHub Skills\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://skills.github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://skills.github.com",
+      "title": "",
+      "role": "",
+      "text": "GitHub Skills"
+    }
+  },
+  {
+    "id": "51",
+    "content": "\nElement Type: a\nText: Documentation\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://docs.github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://docs.github.com",
+      "title": "",
+      "role": "",
+      "text": "Documentation"
+    }
+  },
+  {
+    "id": "52",
+    "content": "\nElement Type: a\nText: Customer support\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://support.github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://support.github.com",
+      "title": "",
+      "role": "",
+      "text": "Customer support"
+    }
+  },
+  {
+    "id": "53",
+    "content": "\nElement Type: a\nText: Community forum\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/orgs/community/discussions\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/orgs/community/discussions",
+      "title": "",
+      "role": "",
+      "text": "Community forum"
+    }
+  },
+  {
+    "id": "54",
+    "content": "\nElement Type: a\nText: Trust center\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/trust-center\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/trust-center",
+      "title": "",
+      "role": "",
+      "text": "Trust center"
+    }
+  },
+  {
+    "id": "55",
+    "content": "\nElement Type: a\nText: Partners\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/partners\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/partners",
+      "title": "",
+      "role": "",
+      "text": "Partners"
+    }
+  },
+  {
+    "id": "56",
+    "content": "\nElement Type: a\nText: View all resources\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/resources\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/resources",
+      "title": "",
+      "role": "",
+      "text": "View all resources"
+    }
+  },
+  {
+    "id": "57",
+    "content": "\nElement Type: button\nText: Open Source\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: NavDropdown-module__button__PEHWX js-details-target\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavDropdown-module__button__PEHWX js-details-target",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Open Source"
+    }
+  },
+  {
+    "id": "58",
+    "content": "\nElement Type: a\nText: GitHub SponsorsFund open source developers\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/open-source/sponsors\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/open-source/sponsors",
+      "title": "",
+      "role": "",
+      "text": "GitHub SponsorsFund open source developers"
+    }
+  },
+  {
+    "id": "59",
+    "content": "\nElement Type: a\nText: Security Lab\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://securitylab.github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://securitylab.github.com",
+      "title": "",
+      "role": "",
+      "text": "Security Lab"
+    }
+  },
+  {
+    "id": "60",
+    "content": "\nElement Type: a\nText: Maintainer Community\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://maintainers.github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://maintainers.github.com",
+      "title": "",
+      "role": "",
+      "text": "Maintainer Community"
+    }
+  },
+  {
+    "id": "61",
+    "content": "\nElement Type: a\nText: Accelerator\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/open-source/accelerator\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/open-source/accelerator",
+      "title": "",
+      "role": "",
+      "text": "Accelerator"
+    }
+  },
+  {
+    "id": "62",
+    "content": "\nElement Type: a\nText: GitHub Stars\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://stars.github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://stars.github.com",
+      "title": "",
+      "role": "",
+      "text": "GitHub Stars"
+    }
+  },
+  {
+    "id": "63",
+    "content": "\nElement Type: a\nText: Archive Program\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://archiveprogram.github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://archiveprogram.github.com",
+      "title": "",
+      "role": "",
+      "text": "Archive Program"
+    }
+  },
+  {
+    "id": "64",
+    "content": "\nElement Type: a\nText: Topics\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/topics\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/topics",
+      "title": "",
+      "role": "",
+      "text": "Topics"
+    }
+  },
+  {
+    "id": "65",
+    "content": "\nElement Type: a\nText: Trending\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/trending\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/trending",
+      "title": "",
+      "role": "",
+      "text": "Trending"
+    }
+  },
+  {
+    "id": "66",
+    "content": "\nElement Type: a\nText: Collections\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/collections\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/collections",
+      "title": "",
+      "role": "",
+      "text": "Collections"
+    }
+  },
+  {
+    "id": "67",
+    "content": "\nElement Type: button\nText: Enterprise\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: NavDropdown-module__button__PEHWX js-details-target\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavDropdown-module__button__PEHWX js-details-target",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Enterprise"
+    }
+  },
+  {
+    "id": "68",
+    "content": "\nElement Type: a\nText: Enterprise platformAI-powered developer platform\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/enterprise\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/enterprise",
+      "title": "",
+      "role": "",
+      "text": "Enterprise platformAI-powered developer platform"
+    }
+  },
+  {
+    "id": "69",
+    "content": "\nElement Type: a\nText: GitHub Advanced SecurityEnterprise-grade security features\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/security/advanced-security\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/security/advanced-security",
+      "title": "",
+      "role": "",
+      "text": "GitHub Advanced SecurityEnterprise-grade security features"
+    }
+  },
+  {
+    "id": "70",
+    "content": "\nElement Type: a\nText: Copilot for BusinessEnterprise-grade AI features\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/features/copilot/copilot-business\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/features/copilot/copilot-business",
+      "title": "",
+      "role": "",
+      "text": "Copilot for BusinessEnterprise-grade AI features"
+    }
+  },
+  {
+    "id": "71",
+    "content": "\nElement Type: a\nText: Premium SupportEnterprise-grade 24/7 support\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4\nValue: \nHref: https://github.com/enterprise/premium-support\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4",
+      "value": "",
+      "href": "https://github.com/enterprise/premium-support",
+      "title": "",
+      "role": "",
+      "text": "Premium SupportEnterprise-grade 24/7 support"
+    }
+  },
+  {
+    "id": "72",
+    "content": "\nElement Type: a\nText: Pricing\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM\nValue: \nHref: https://github.com/pricing\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM",
+      "value": "",
+      "href": "https://github.com/pricing",
+      "title": "",
+      "role": "",
+      "text": "Pricing"
+    }
+  },
+  {
+    "id": "73",
+    "content": "\nElement Type: button\nText: Search or jump to...\nID: \nName: \nType: button\nPlaceholder: Search or jump to...\nARIA Label: Search or jump to…\nClass: header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "Search or jump to...",
+      "ariaLabel": "Search or jump to…",
+      "class": "header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Search or jump to..."
+    }
+  },
+  {
+    "id": "74",
+    "content": "\nElement Type: input\nText: \nID: \nName: type\nType: hidden\nPlaceholder: \nARIA Label: \nClass: js-site-search-type-field\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "",
+      "name": "type",
+      "type": "hidden",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-site-search-type-field",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "75",
+    "content": "\nElement Type: input\nText: \nID: query-builder-test\nName: query-builder-test\nType: text\nPlaceholder: \nARIA Label: \nClass: FormControl-input QueryBuilder-Input FormControl-medium\nValue: \nHref: \nTitle: \nRole: combobox\n",
+    "metadata": {
+      "tag": "input",
+      "id": "query-builder-test",
+      "name": "query-builder-test",
+      "type": "text",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "FormControl-input QueryBuilder-Input FormControl-medium",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "combobox",
+      "text": ""
+    }
+  },
+  {
+    "id": "76",
+    "content": "\nElement Type: button\nText: \nID: query-builder-test-clear-button\nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: Button Button--iconOnly Button--invisible Button--medium mr-1 tmp-mr-1 px-2 tmp-px-2 py-0 tmp-py-0 d-flex flex-items-center rounded-1 color-fg-muted\nValue: \nHref: \nTitle: \nRole: button\n",
+    "metadata": {
+      "tag": "button",
+      "id": "query-builder-test-clear-button",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Button Button--iconOnly Button--invisible Button--medium mr-1 tmp-mr-1 px-2 tmp-px-2 py-0 tmp-py-0 d-flex flex-items-center rounded-1 color-fg-muted",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "button",
+      "text": ""
+    }
+  },
+  {
+    "id": "77",
+    "content": "\nElement Type: a\nText: Search syntax tips\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link color-fg-accent text-normal ml-2 tmp-ml-2\nValue: \nHref: https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link color-fg-accent text-normal ml-2 tmp-ml-2",
+      "value": "",
+      "href": "https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax",
+      "title": "",
+      "role": "",
+      "text": "Search syntax tips"
+    }
+  },
+  {
+    "id": "78",
+    "content": "\nElement Type: button\nText: \nID: \nName: \nType: button\nPlaceholder: \nARIA Label: Close\nClass: close-button Overlay-closeButton\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "Close",
+      "class": "close-button Overlay-closeButton",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "79",
+    "content": "\nElement Type: input\nText: \nID: \nName: authenticity_token\nType: hidden\nPlaceholder: \nARIA Label: \nClass: \nValue: g3nByggAkf1yAPLki1y5pzLzlC5X7xCiWE1Mt3Qp2jKZe3KGEuxikmJ1YJmGq5SNI9ibYcm9W6hTpYYrQCs5pw==\nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "",
+      "name": "authenticity_token",
+      "type": "hidden",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "",
+      "value": "g3nByggAkf1yAPLki1y5pzLzlC5X7xCiWE1Mt3Qp2jKZe3KGEuxikmJ1YJmGq5SNI9ibYcm9W6hTpYYrQCs5pw==",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "80",
+    "content": "\nElement Type: textarea\nText: \nID: feedback\nName: feedback\nType: \nPlaceholder: \nARIA Label: \nClass: form-control width-full mb-2\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "textarea",
+      "id": "feedback",
+      "name": "feedback",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "form-control width-full mb-2",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "81",
+    "content": "\nElement Type: input\nText: \nID: include_email\nName: include_email\nType: checkbox\nPlaceholder: \nARIA Label: Include my email address so I can be contacted\nClass: form-control mr-2\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "include_email",
+      "name": "include_email",
+      "type": "checkbox",
+      "placeholder": "",
+      "ariaLabel": "Include my email address so I can be contacted",
+      "class": "form-control mr-2",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "82",
+    "content": "\nElement Type: button\nText: Cancel\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: btn\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Cancel"
+    }
+  },
+  {
+    "id": "83",
+    "content": "\nElement Type: button\nText: Submit feedback\nID: \nName: \nType: submit\nPlaceholder: \nARIA Label: \nClass: btn-primary btn\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "submit",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn-primary btn",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Submit feedback"
+    }
+  },
+  {
+    "id": "84",
+    "content": "\nElement Type: button\nText: \nID: \nName: \nType: button\nPlaceholder: \nARIA Label: Close\nClass: close-button Overlay-closeButton\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "Close",
+      "class": "close-button Overlay-closeButton",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "85",
+    "content": "\nElement Type: input\nText: \nID: \nName: authenticity_token\nType: hidden\nPlaceholder: \nARIA Label: \nClass: \nValue: HRGMhTlVxhHzST3x70X/YpqOnXoH/LMACtROCZfF+hqD7FOKVjM9w3eFZAAjyvZ/uEOTzkoDTc/ZU0hBNU2hKw==\nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "",
+      "name": "authenticity_token",
+      "type": "hidden",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "",
+      "value": "HRGMhTlVxhHzST3x70X/YpqOnXoH/LMACtROCZfF+hqD7FOKVjM9w3eFZAAjyvZ/uEOTzkoDTc/ZU0hBNU2hKw==",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "86",
+    "content": "\nElement Type: input\nText: \nID: custom_scope_id\nName: custom_scope_id\nType: hidden\nPlaceholder: \nARIA Label: \nClass: \nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "custom_scope_id",
+      "name": "custom_scope_id",
+      "type": "hidden",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "87",
+    "content": "\nElement Type: input\nText: \nID: custom_scope_name\nName: custom_scope_name\nType: text\nPlaceholder: github-ruby\nARIA Label: \nClass: form-control\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "custom_scope_name",
+      "name": "custom_scope_name",
+      "type": "text",
+      "placeholder": "github-ruby",
+      "ariaLabel": "",
+      "class": "form-control",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "88",
+    "content": "\nElement Type: input\nText: \nID: \nName: \nType: hidden\nPlaceholder: \nARIA Label: \nClass: \nValue: V+Yc9WsTx9bUGiMBQbmZCn8yOwLtGMAhB/OFI6TmTNl1i8bKAJgDrXAxY1XX2N7wFnO85AVqT+zpXD98febMtA==\nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "",
+      "name": "",
+      "type": "hidden",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "",
+      "value": "V+Yc9WsTx9bUGiMBQbmZCn8yOwLtGMAhB/OFI6TmTNl1i8bKAJgDrXAxY1XX2N7wFnO85AVqT+zpXD98febMtA==",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "89",
+    "content": "\nElement Type: input\nText: \nID: custom_scope_query\nName: custom_scope_query\nType: text\nPlaceholder: (repo:mona/a OR repo:mona/b) AND lang:python\nARIA Label: \nClass: form-control\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "custom_scope_query",
+      "name": "custom_scope_query",
+      "type": "text",
+      "placeholder": "(repo:mona/a OR repo:mona/b) AND lang:python",
+      "ariaLabel": "",
+      "class": "form-control",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "90",
+    "content": "\nElement Type: a\nText: documentation\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--inTextBlock\nValue: \nHref: https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--inTextBlock",
+      "value": "",
+      "href": "https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax",
+      "title": "",
+      "role": "",
+      "text": "documentation"
+    }
+  },
+  {
+    "id": "91",
+    "content": "\nElement Type: button\nText: Cancel\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: btn\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Cancel"
+    }
+  },
+  {
+    "id": "92",
+    "content": "\nElement Type: button\nText: Create saved search\nID: \nName: \nType: submit\nPlaceholder: \nARIA Label: \nClass: btn-primary btn\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "submit",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn-primary btn",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Create saved search"
+    }
+  },
+  {
+    "id": "93",
+    "content": "\nElement Type: a\nText: Sign in\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1\nValue: \nHref: /login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1",
+      "value": "",
+      "href": "/login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023",
+      "title": "",
+      "role": "",
+      "text": "Sign in"
+    }
+  },
+  {
+    "id": "94",
+    "content": "\nElement Type: a\nText: Sign up\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1\nValue: \nHref: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1",
+      "value": "",
+      "href": "/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header",
+      "title": "",
+      "role": "",
+      "text": "Sign up"
+    }
+  },
+  {
+    "id": "95",
+    "content": "\nElement Type: button\nText: \nID: icon-button-6aecad8d-6ea4-42c0-a542-864379b4f5a1\nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "icon-button-6aecad8d-6ea4-42c0-a542-864379b4f5a1",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "96",
+    "content": "\nElement Type: button\nText: Resetting focus\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: sr-only js-header-menu-focus-trap d-block d-lg-none\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "sr-only js-header-menu-focus-trap d-block d-lg-none",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Resetting focus"
+    }
+  },
+  {
+    "id": "97",
+    "content": "\nElement Type: a\nText: Reload\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--inTextBlock\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--inTextBlock",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Reload"
+    }
+  },
+  {
+    "id": "98",
+    "content": "\nElement Type: a\nText: Reload\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--inTextBlock\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--inTextBlock",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Reload"
+    }
+  },
+  {
+    "id": "99",
+    "content": "\nElement Type: a\nText: Reload\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--inTextBlock\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--inTextBlock",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Reload"
+    }
+  },
+  {
+    "id": "100",
+    "content": "\nElement Type: button\nText: \nID: icon-button-4e2a7b83-76bf-439a-b8f6-793f5f856613\nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "icon-button-4e2a7b83-76bf-439a-b8f6-793f5f856613",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "101",
+    "content": "\nElement Type: button\nText: \nID: \nName: \nType: button\nPlaceholder: \nARIA Label: Dismiss this message\nClass: flash-close js-flash-close\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "Dismiss this message",
+      "class": "flash-close js-flash-close",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "102",
+    "content": "\nElement Type: a\nText: Follow\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: btn btn-sm mini-follow-button\nValue: \nHref: /login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn btn-sm mini-follow-button",
+      "value": "",
+      "href": "/login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023",
+      "title": "",
+      "role": "",
+      "text": "Follow"
+    }
+  },
+  {
+    "id": "103",
+    "content": "\nElement Type: a\nText: Overview\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item selected\nValue: \nHref: /Balakrishna95023\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item selected",
+      "value": "",
+      "href": "/Balakrishna95023",
+      "title": "",
+      "role": "",
+      "text": "Overview"
+    }
+  },
+  {
+    "id": "104",
+    "content": "\nElement Type: a\nText: Repositories\n    9\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item\nValue: \nHref: /Balakrishna95023?tab=repositories\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=repositories",
+      "title": "",
+      "role": "",
+      "text": "Repositories\n    9"
+    }
+  },
+  {
+    "id": "105",
+    "content": "\nElement Type: a\nText: Projects\n    0\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item\nValue: \nHref: /Balakrishna95023?tab=projects\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=projects",
+      "title": "",
+      "role": "",
+      "text": "Projects\n    0"
+    }
+  },
+  {
+    "id": "106",
+    "content": "\nElement Type: a\nText: Packages\n      0\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item\nValue: \nHref: /Balakrishna95023?tab=packages\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=packages",
+      "title": "",
+      "role": "",
+      "text": "Packages\n      0"
+    }
+  },
+  {
+    "id": "107",
+    "content": "\nElement Type: a\nText: Stars\n    0\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item\nValue: \nHref: /Balakrishna95023?tab=stars\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=stars",
+      "title": "",
+      "role": "",
+      "text": "Stars\n    0"
+    }
+  },
+  {
+    "id": "108",
+    "content": "\nElement Type: a\nText: Overview\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item selected dropdown-item\nValue: \nHref: /Balakrishna95023\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item selected dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023",
+      "title": "",
+      "role": "menuitem",
+      "text": "Overview"
+    }
+  },
+  {
+    "id": "109",
+    "content": "\nElement Type: a\nText: Repositories\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item dropdown-item\nValue: \nHref: /Balakrishna95023?tab=repositories\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=repositories",
+      "title": "",
+      "role": "menuitem",
+      "text": "Repositories"
+    }
+  },
+  {
+    "id": "110",
+    "content": "\nElement Type: a\nText: Projects\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item dropdown-item\nValue: \nHref: /Balakrishna95023?tab=projects\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=projects",
+      "title": "",
+      "role": "menuitem",
+      "text": "Projects"
+    }
+  },
+  {
+    "id": "111",
+    "content": "\nElement Type: a\nText: Packages\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item dropdown-item\nValue: \nHref: /Balakrishna95023?tab=packages\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=packages",
+      "title": "",
+      "role": "menuitem",
+      "text": "Packages"
+    }
+  },
+  {
+    "id": "112",
+    "content": "\nElement Type: a\nText: Stars\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item dropdown-item\nValue: \nHref: /Balakrishna95023?tab=stars\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=stars",
+      "title": "",
+      "role": "menuitem",
+      "text": "Stars"
+    }
+  },
+  {
+    "id": "113",
+    "content": "\nElement Type: a\nText: Follow\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: btn mini-follow-button\nValue: \nHref: /login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn mini-follow-button",
+      "value": "",
+      "href": "/login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023",
+      "title": "",
+      "role": "",
+      "text": "Follow"
+    }
+  },
+  {
+    "id": "114",
+    "content": "\nElement Type: a\nText: \nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: d-block\nValue: \nHref: https://avatars.githubusercontent.com/u/166862467?v=4\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "d-block",
+      "value": "",
+      "href": "https://avatars.githubusercontent.com/u/166862467?v=4",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "115",
+    "content": "\nElement Type: a\nText: Follow\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: btn btn-block\nValue: \nHref: /login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn btn-block",
+      "value": "",
+      "href": "/login?return_to=https%3A%2F%2Fgithub.com%2FBalakrishna95023",
+      "title": "",
+      "role": "",
+      "text": "Follow"
+    }
+  },
+  {
+    "id": "116",
+    "content": "\nElement Type: button\nText: Block or report user\nID: dialog-show-dialog-c763c455-efdc-4f7d-9b55-2a3a7bfbe36e\nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: Button--link Button--medium Button color-fg-muted\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "dialog-show-dialog-c763c455-efdc-4f7d-9b55-2a3a7bfbe36e",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Button--link Button--medium Button color-fg-muted",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Block or report user"
+    }
+  },
+  {
+    "id": "117",
+    "content": "\nElement Type: button\nText: \nID: \nName: \nType: button\nPlaceholder: \nARIA Label: Close\nClass: close-button Overlay-closeButton\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "Close",
+      "class": "close-button Overlay-closeButton",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "118",
+    "content": "\nElement Type: input\nText: \nID: \nName: authenticity_token\nType: hidden\nPlaceholder: \nARIA Label: \nClass: \nValue: BHJ_0RH0kcgXuULaOXRoKlYqS-qkWS4pkJHVAA_DK8lhYHsb3BWvNouyFAPUHqWm7qU3G0EgifNGvN1RUbl91g\nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "",
+      "name": "authenticity_token",
+      "type": "hidden",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "",
+      "value": "BHJ_0RH0kcgXuULaOXRoKlYqS-qkWS4pkJHVAA_DK8lhYHsb3BWvNouyFAPUHqWm7qU3G0EgifNGvN1RUbl91g",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "119",
+    "content": "\nElement Type: input\nText: \nID: \nName: login\nType: hidden\nPlaceholder: \nARIA Label: \nClass: \nValue: Balakrishna95023\nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "",
+      "name": "login",
+      "type": "hidden",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "",
+      "value": "Balakrishna95023",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "120",
+    "content": "\nElement Type: input\nText: \nID: \nName: return_to\nType: hidden\nPlaceholder: \nARIA Label: \nClass: \nValue: /Balakrishna95023\nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "input",
+      "id": "",
+      "name": "return_to",
+      "type": "hidden",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "",
+      "value": "/Balakrishna95023",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "121",
+    "content": "\nElement Type: a\nText: blocking users\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--inTextBlock\nValue: \nHref: https://docs.github.com/articles/blocking-a-user-from-your-personal-account\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--inTextBlock",
+      "value": "",
+      "href": "https://docs.github.com/articles/blocking-a-user-from-your-personal-account",
+      "title": "",
+      "role": "",
+      "text": "blocking users"
+    }
+  },
+  {
+    "id": "122",
+    "content": "\nElement Type: textarea\nText: \nID: new-block-note-from-sidebar\nName: note\nType: \nPlaceholder: \nARIA Label: \nClass: form-control FormControl-input FormControl-textarea js-ignored-user-note-field\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "textarea",
+      "id": "new-block-note-from-sidebar",
+      "name": "note",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "form-control FormControl-input FormControl-textarea js-ignored-user-note-field",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "123",
+    "content": "\nElement Type: button\nText: Block user\nID: \nName: \nType: submit\nPlaceholder: \nARIA Label: \nClass: btn btn-danger\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "submit",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn btn-danger",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Block user"
+    }
+  },
+  {
+    "id": "124",
+    "content": "\nElement Type: a\nText: reporting abuse\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--inTextBlock\nValue: \nHref: https://docs.github.com/articles/reporting-abuse-or-spam\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--inTextBlock",
+      "value": "",
+      "href": "https://docs.github.com/articles/reporting-abuse-or-spam",
+      "title": "",
+      "role": "",
+      "text": "reporting abuse"
+    }
+  },
+  {
+    "id": "125",
+    "content": "\nElement Type: a\nText: Report abuse\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: btn btn-danger\nValue: \nHref: /contact/report-abuse?report=Balakrishna95023+%28user%29\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "btn btn-danger",
+      "value": "",
+      "href": "/contact/report-abuse?report=Balakrishna95023+%28user%29",
+      "title": "",
+      "role": "",
+      "text": "Report abuse"
+    }
+  },
+  {
+    "id": "126",
+    "content": "\nElement Type: a\nText: Overview\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item selected\nValue: \nHref: /Balakrishna95023\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item selected",
+      "value": "",
+      "href": "/Balakrishna95023",
+      "title": "",
+      "role": "",
+      "text": "Overview"
+    }
+  },
+  {
+    "id": "127",
+    "content": "\nElement Type: a\nText: Repositories\n    9\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item\nValue: \nHref: /Balakrishna95023?tab=repositories\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=repositories",
+      "title": "",
+      "role": "",
+      "text": "Repositories\n    9"
+    }
+  },
+  {
+    "id": "128",
+    "content": "\nElement Type: a\nText: Projects\n    0\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item\nValue: \nHref: /Balakrishna95023?tab=projects\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=projects",
+      "title": "",
+      "role": "",
+      "text": "Projects\n    0"
+    }
+  },
+  {
+    "id": "129",
+    "content": "\nElement Type: a\nText: Packages\n      0\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item\nValue: \nHref: /Balakrishna95023?tab=packages\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=packages",
+      "title": "",
+      "role": "",
+      "text": "Packages\n      0"
+    }
+  },
+  {
+    "id": "130",
+    "content": "\nElement Type: a\nText: Stars\n    0\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item\nValue: \nHref: /Balakrishna95023?tab=stars\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=stars",
+      "title": "",
+      "role": "",
+      "text": "Stars\n    0"
+    }
+  },
+  {
+    "id": "131",
+    "content": "\nElement Type: a\nText: Overview\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item selected dropdown-item\nValue: \nHref: /Balakrishna95023\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item selected dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023",
+      "title": "",
+      "role": "menuitem",
+      "text": "Overview"
+    }
+  },
+  {
+    "id": "132",
+    "content": "\nElement Type: a\nText: Repositories\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item dropdown-item\nValue: \nHref: /Balakrishna95023?tab=repositories\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=repositories",
+      "title": "",
+      "role": "menuitem",
+      "text": "Repositories"
+    }
+  },
+  {
+    "id": "133",
+    "content": "\nElement Type: a\nText: Projects\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item dropdown-item\nValue: \nHref: /Balakrishna95023?tab=projects\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=projects",
+      "title": "",
+      "role": "menuitem",
+      "text": "Projects"
+    }
+  },
+  {
+    "id": "134",
+    "content": "\nElement Type: a\nText: Packages\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item dropdown-item\nValue: \nHref: /Balakrishna95023?tab=packages\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=packages",
+      "title": "",
+      "role": "menuitem",
+      "text": "Packages"
+    }
+  },
+  {
+    "id": "135",
+    "content": "\nElement Type: a\nText: Stars\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: js-selected-navigation-item dropdown-item\nValue: \nHref: /Balakrishna95023?tab=stars\nTitle: \nRole: menuitem\n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "js-selected-navigation-item dropdown-item",
+      "value": "",
+      "href": "/Balakrishna95023?tab=stars",
+      "title": "",
+      "role": "menuitem",
+      "text": "Stars"
+    }
+  },
+  {
+    "id": "136",
+    "content": "\nElement Type: a\nText: IMAGE-ENCRYPTION-USING-RUBICS-CUBE\nID: 785844756\nName: \nType: \nPlaceholder: \nARIA Label: \nClass: min-width-0 Link text-bold flex-auto wb-break-all\nValue: \nHref: /Balakrishna95023/IMAGE-ENCRYPTION-USING-RUBICS-CUBE\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "785844756",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "min-width-0 Link text-bold flex-auto wb-break-all",
+      "value": "",
+      "href": "/Balakrishna95023/IMAGE-ENCRYPTION-USING-RUBICS-CUBE",
+      "title": "",
+      "role": "",
+      "text": "IMAGE-ENCRYPTION-USING-RUBICS-CUBE"
+    }
+  },
+  {
+    "id": "137",
+    "content": "\nElement Type: a\nText: Learning\nID: 857238106\nName: \nType: \nPlaceholder: \nARIA Label: \nClass: min-width-0 Link text-bold flex-auto wb-break-all\nValue: \nHref: /Balakrishna95023/Learning\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "857238106",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "min-width-0 Link text-bold flex-auto wb-break-all",
+      "value": "",
+      "href": "/Balakrishna95023/Learning",
+      "title": "",
+      "role": "",
+      "text": "Learning"
+    }
+  },
+  {
+    "id": "138",
+    "content": "\nElement Type: a\nText: AI-logs\nID: 932562627\nName: \nType: \nPlaceholder: \nARIA Label: \nClass: min-width-0 Link text-bold flex-auto wb-break-all\nValue: \nHref: /Balakrishna95023/AI-logs\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "932562627",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "min-width-0 Link text-bold flex-auto wb-break-all",
+      "value": "",
+      "href": "/Balakrishna95023/AI-logs",
+      "title": "",
+      "role": "",
+      "text": "AI-logs"
+    }
+  },
+  {
+    "id": "139",
+    "content": "\nElement Type: a\nText: RobotframeworkAI\nID: 934178833\nName: \nType: \nPlaceholder: \nARIA Label: \nClass: min-width-0 Link text-bold flex-auto wb-break-all\nValue: \nHref: /Balakrishna95023/RobotframeworkAI\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "934178833",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "min-width-0 Link text-bold flex-auto wb-break-all",
+      "value": "",
+      "href": "/Balakrishna95023/RobotframeworkAI",
+      "title": "",
+      "role": "",
+      "text": "RobotframeworkAI"
+    }
+  },
+  {
+    "id": "140",
+    "content": "\nElement Type: a\nText: Heleanium-library\nID: 934586957\nName: \nType: \nPlaceholder: \nARIA Label: \nClass: min-width-0 Link text-bold flex-auto wb-break-all\nValue: \nHref: /Balakrishna95023/Heleanium-library\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "934586957",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "min-width-0 Link text-bold flex-auto wb-break-all",
+      "value": "",
+      "href": "/Balakrishna95023/Heleanium-library",
+      "title": "",
+      "role": "",
+      "text": "Heleanium-library"
+    }
+  },
+  {
+    "id": "141",
+    "content": "\nElement Type: a\nText: Error-resolving-through-ai\nID: 941199186\nName: \nType: \nPlaceholder: \nARIA Label: \nClass: min-width-0 Link text-bold flex-auto wb-break-all\nValue: \nHref: /Balakrishna95023/Error-resolving-through-ai\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "941199186",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "min-width-0 Link text-bold flex-auto wb-break-all",
+      "value": "",
+      "href": "/Balakrishna95023/Error-resolving-through-ai",
+      "title": "",
+      "role": "",
+      "text": "Error-resolving-through-ai"
+    }
+  },
+  {
+    "id": "142",
+    "content": "\nElement Type: a\nText: Skip to contributions year list\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: hide-sm hide-md hide-lg tmp-p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus\nValue: \nHref: #year-link-2026\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "hide-sm hide-md hide-lg tmp-p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus",
+      "value": "",
+      "href": "#year-link-2026",
+      "title": "",
+      "role": "",
+      "text": "Skip to contributions year list"
+    }
+  },
+  {
+    "id": "143",
+    "content": "\nElement Type: a\nText: Learn how we count contributions\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--muted\nValue: \nHref: https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--muted",
+      "value": "",
+      "href": "https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile",
+      "title": "",
+      "role": "",
+      "text": "Learn how we count contributions"
+    }
+  },
+  {
+    "id": "144",
+    "content": "\nElement Type: a\nText: 2026\nID: year-link-2026\nName: \nType: \nPlaceholder: \nARIA Label: Contribution activity in 2026, 1 of 3\nClass: js-year-link filter-item tmp-px-3 mb-2 py-2 selected\nValue: \nHref: /Balakrishna95023?tab=overview&from=2026-07-01&to=2026-07-17\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "year-link-2026",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "Contribution activity in 2026, 1 of 3",
+      "class": "js-year-link filter-item tmp-px-3 mb-2 py-2 selected",
+      "value": "",
+      "href": "/Balakrishna95023?tab=overview&from=2026-07-01&to=2026-07-17",
+      "title": "",
+      "role": "",
+      "text": "2026"
+    }
+  },
+  {
+    "id": "145",
+    "content": "\nElement Type: a\nText: 2025\nID: year-link-2025\nName: \nType: \nPlaceholder: \nARIA Label: Contribution activity in 2025, 2 of 3\nClass: js-year-link filter-item tmp-px-3 mb-2 py-2\nValue: \nHref: /Balakrishna95023?tab=overview&from=2025-12-01&to=2025-12-31\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "year-link-2025",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "Contribution activity in 2025, 2 of 3",
+      "class": "js-year-link filter-item tmp-px-3 mb-2 py-2",
+      "value": "",
+      "href": "/Balakrishna95023?tab=overview&from=2025-12-01&to=2025-12-31",
+      "title": "",
+      "role": "",
+      "text": "2025"
+    }
+  },
+  {
+    "id": "146",
+    "content": "\nElement Type: a\nText: 2024\nID: year-link-2024\nName: \nType: \nPlaceholder: \nARIA Label: Contribution activity in 2024, 3 of 3\nClass: js-year-link filter-item tmp-px-3 mb-2 py-2\nValue: \nHref: /Balakrishna95023?tab=overview&from=2024-12-01&to=2024-12-31\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "year-link-2024",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "Contribution activity in 2024, 3 of 3",
+      "class": "js-year-link filter-item tmp-px-3 mb-2 py-2",
+      "value": "",
+      "href": "/Balakrishna95023?tab=overview&from=2024-12-01&to=2024-12-31",
+      "title": "",
+      "role": "",
+      "text": "2024"
+    }
+  },
+  {
+    "id": "147",
+    "content": "\nElement Type: a\nText: Balakrishna95023/AI_WITH_PLAYWRIGHT\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link\nValue: \nHref: /Balakrishna95023/AI_WITH_PLAYWRIGHT\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link",
+      "value": "",
+      "href": "/Balakrishna95023/AI_WITH_PLAYWRIGHT",
+      "title": "",
+      "role": "",
+      "text": "Balakrishna95023/AI_WITH_PLAYWRIGHT"
+    }
+  },
+  {
+    "id": "148",
+    "content": "\nElement Type: a\nText: 7 commits\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link color-fg-muted ml-lg-1 tmp-ml-lg-1 mt-1 tmp-mt-1 mt-sm-1 tmp-mt-sm-1 mt-md-1 tmp-mt-md-1 mt-lg-0 tmp-mt-lg-0 mt-xl-1 tmp-mt-xl-1 f6 d-block d-sm-block d-md-block d-lg-inline\nValue: \nHref: /Balakrishna95023/AI_WITH_PLAYWRIGHT/commits?author=Balakrishna95023&since=2026-07-01&until=2026-07-18\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link color-fg-muted ml-lg-1 tmp-ml-lg-1 mt-1 tmp-mt-1 mt-sm-1 tmp-mt-sm-1 mt-md-1 tmp-mt-md-1 mt-lg-0 tmp-mt-lg-0 mt-xl-1 tmp-mt-xl-1 f6 d-block d-sm-block d-md-block d-lg-inline",
+      "value": "",
+      "href": "/Balakrishna95023/AI_WITH_PLAYWRIGHT/commits?author=Balakrishna95023&since=2026-07-01&until=2026-07-18",
+      "title": "",
+      "role": "",
+      "text": "7 commits"
+    }
+  },
+  {
+    "id": "149",
+    "content": "\nElement Type: a\nText: Balakrishna95023/PlaywrightUsingJS\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link\nValue: \nHref: /Balakrishna95023/PlaywrightUsingJS\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link",
+      "value": "",
+      "href": "/Balakrishna95023/PlaywrightUsingJS",
+      "title": "",
+      "role": "",
+      "text": "Balakrishna95023/PlaywrightUsingJS"
+    }
+  },
+  {
+    "id": "150",
+    "content": "\nElement Type: a\nText: 4 commits\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link color-fg-muted ml-lg-1 tmp-ml-lg-1 mt-1 tmp-mt-1 mt-sm-1 tmp-mt-sm-1 mt-md-1 tmp-mt-md-1 mt-lg-0 tmp-mt-lg-0 mt-xl-1 tmp-mt-xl-1 f6 d-block d-sm-block d-md-block d-lg-inline\nValue: \nHref: /Balakrishna95023/PlaywrightUsingJS/commits?author=Balakrishna95023&since=2026-07-01&until=2026-07-18\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link color-fg-muted ml-lg-1 tmp-ml-lg-1 mt-1 tmp-mt-1 mt-sm-1 tmp-mt-sm-1 mt-md-1 tmp-mt-md-1 mt-lg-0 tmp-mt-lg-0 mt-xl-1 tmp-mt-xl-1 f6 d-block d-sm-block d-md-block d-lg-inline",
+      "value": "",
+      "href": "/Balakrishna95023/PlaywrightUsingJS/commits?author=Balakrishna95023&since=2026-07-01&until=2026-07-18",
+      "title": "",
+      "role": "",
+      "text": "4 commits"
+    }
+  },
+  {
+    "id": "151",
+    "content": "\nElement Type: a\nText: Balakrishna95023/deepeval_metrics_cal...\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link\nValue: \nHref: /Balakrishna95023/deepeval_metrics_calculation\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link",
+      "value": "",
+      "href": "/Balakrishna95023/deepeval_metrics_calculation",
+      "title": "",
+      "role": "",
+      "text": "Balakrishna95023/deepeval_metrics_cal..."
+    }
+  },
+  {
+    "id": "152",
+    "content": "\nElement Type: a\nText: 1 commit\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link color-fg-muted ml-lg-1 tmp-ml-lg-1 mt-1 tmp-mt-1 mt-sm-1 tmp-mt-sm-1 mt-md-1 tmp-mt-md-1 mt-lg-0 tmp-mt-lg-0 mt-xl-1 tmp-mt-xl-1 f6 d-block d-sm-block d-md-block d-lg-inline\nValue: \nHref: /Balakrishna95023/deepeval_metrics_calculation/commits?author=Balakrishna95023&since=2026-07-01&until=2026-07-18\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link color-fg-muted ml-lg-1 tmp-ml-lg-1 mt-1 tmp-mt-1 mt-sm-1 tmp-mt-sm-1 mt-md-1 tmp-mt-md-1 mt-lg-0 tmp-mt-lg-0 mt-xl-1 tmp-mt-xl-1 f6 d-block d-sm-block d-md-block d-lg-inline",
+      "value": "",
+      "href": "/Balakrishna95023/deepeval_metrics_calculation/commits?author=Balakrishna95023&since=2026-07-01&until=2026-07-18",
+      "title": "",
+      "role": "",
+      "text": "1 commit"
+    }
+  },
+  {
+    "id": "153",
+    "content": "\nElement Type: a\nText: Balakrishna95023/deepeval_metrics_calculation\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link mr-2 tmp-mr-2\nValue: \nHref: /Balakrishna95023/deepeval_metrics_calculation\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link mr-2 tmp-mr-2",
+      "value": "",
+      "href": "/Balakrishna95023/deepeval_metrics_calculation",
+      "title": "",
+      "role": "",
+      "text": "Balakrishna95023/deepeval_metrics_calculation"
+    }
+  },
+  {
+    "id": "154",
+    "content": "\nElement Type: a\nText: Balakrishna95023/AI_WITH_PLAYWRIGHT\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link mr-2 tmp-mr-2\nValue: \nHref: /Balakrishna95023/AI_WITH_PLAYWRIGHT\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link mr-2 tmp-mr-2",
+      "value": "",
+      "href": "/Balakrishna95023/AI_WITH_PLAYWRIGHT",
+      "title": "",
+      "role": "",
+      "text": "Balakrishna95023/AI_WITH_PLAYWRIGHT"
+    }
+  },
+  {
+    "id": "155",
+    "content": "\nElement Type: a\nText: Balakrishna95023/PlaywrightUsingJS\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link mr-2 tmp-mr-2\nValue: \nHref: /Balakrishna95023/PlaywrightUsingJS\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link mr-2 tmp-mr-2",
+      "value": "",
+      "href": "/Balakrishna95023/PlaywrightUsingJS",
+      "title": "",
+      "role": "",
+      "text": "Balakrishna95023/PlaywrightUsingJS"
+    }
+  },
+  {
+    "id": "156",
+    "content": "\nElement Type: button\nText: Show more activity\nID: \nName: button\nType: submit\nPlaceholder: \nARIA Label: \nClass: ajax-pagination-btn btn width-full f6 mt-0 py-2 contribution-activity-show-more\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "button",
+      "type": "submit",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "ajax-pagination-btn btn width-full f6 mt-0 py-2 contribution-activity-show-more",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Show more activity"
+    }
+  },
+  {
+    "id": "157",
+    "content": "\nElement Type: a\nText: \nID: \nName: \nType: \nPlaceholder: \nARIA Label: GitHub Homepage\nClass: footer-octicon mr-2\nValue: \nHref: https://github.com\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "GitHub Homepage",
+      "class": "footer-octicon mr-2",
+      "value": "",
+      "href": "https://github.com",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "158",
+    "content": "\nElement Type: a\nText: Terms\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--secondary Link\nValue: \nHref: https://docs.github.com/site-policy/github-terms/github-terms-of-service\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary Link",
+      "value": "",
+      "href": "https://docs.github.com/site-policy/github-terms/github-terms-of-service",
+      "title": "",
+      "role": "",
+      "text": "Terms"
+    }
+  },
+  {
+    "id": "159",
+    "content": "\nElement Type: a\nText: Privacy\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--secondary Link\nValue: \nHref: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary Link",
+      "value": "",
+      "href": "https://docs.github.com/site-policy/privacy-policies/github-privacy-statement",
+      "title": "",
+      "role": "",
+      "text": "Privacy"
+    }
+  },
+  {
+    "id": "160",
+    "content": "\nElement Type: a\nText: Security\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--secondary Link\nValue: \nHref: https://github.com/security\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary Link",
+      "value": "",
+      "href": "https://github.com/security",
+      "title": "",
+      "role": "",
+      "text": "Security"
+    }
+  },
+  {
+    "id": "161",
+    "content": "\nElement Type: a\nText: Status\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--secondary Link\nValue: \nHref: https://www.githubstatus.com/\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary Link",
+      "value": "",
+      "href": "https://www.githubstatus.com/",
+      "title": "",
+      "role": "",
+      "text": "Status"
+    }
+  },
+  {
+    "id": "162",
+    "content": "\nElement Type: a\nText: Community\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--secondary Link\nValue: \nHref: https://github.community/\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary Link",
+      "value": "",
+      "href": "https://github.community/",
+      "title": "",
+      "role": "",
+      "text": "Community"
+    }
+  },
+  {
+    "id": "163",
+    "content": "\nElement Type: a\nText: Docs\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--secondary Link\nValue: \nHref: https://docs.github.com/\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary Link",
+      "value": "",
+      "href": "https://docs.github.com/",
+      "title": "",
+      "role": "",
+      "text": "Docs"
+    }
+  },
+  {
+    "id": "164",
+    "content": "\nElement Type: a\nText: Contact\nID: \nName: \nType: \nPlaceholder: \nARIA Label: \nClass: Link--secondary Link\nValue: \nHref: https://support.github.com?tags=dotcom-footer\nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "a",
+      "id": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary Link",
+      "value": "",
+      "href": "https://support.github.com?tags=dotcom-footer",
+      "title": "",
+      "role": "",
+      "text": "Contact"
+    }
+  },
+  {
+    "id": "165",
+    "content": "\nElement Type: button\nText: Manage cookies\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: Link--secondary underline-on-hover border-0 p-0 color-bg-transparent\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary underline-on-hover border-0 p-0 color-bg-transparent",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Manage cookies"
+    }
+  },
+  {
+    "id": "166",
+    "content": "\nElement Type: button\nText: Do not share my personal information\nID: \nName: \nType: button\nPlaceholder: \nARIA Label: \nClass: Link--secondary underline-on-hover border-0 p-0 color-bg-transparent text-left\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "class": "Link--secondary underline-on-hover border-0 p-0 color-bg-transparent text-left",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": "Do not share my personal information"
+    }
+  },
+  {
+    "id": "167",
+    "content": "\nElement Type: button\nText: \nID: \nName: \nType: button\nPlaceholder: \nARIA Label: Dismiss error\nClass: flash-close js-ajax-error-dismiss\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "Dismiss error",
+      "class": "flash-close js-ajax-error-dismiss",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  },
+  {
+    "id": "168",
+    "content": "\nElement Type: button\nText: \nID: \nName: \nType: button\nPlaceholder: \nARIA Label: Close dialog\nClass: Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0\nValue: \nHref: \nTitle: \nRole: \n",
+    "metadata": {
+      "tag": "button",
+      "id": "",
+      "name": "",
+      "type": "button",
+      "placeholder": "",
+      "ariaLabel": "Close dialog",
+      "class": "Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0",
+      "value": "",
+      "href": "",
+      "title": "",
+      "role": "",
+      "text": ""
+    }
+  }
+]

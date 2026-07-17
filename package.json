@@ -1,10 +1,19 @@
 {
   "dependencies": {
+    "cheerio": "^1.1.0",
+    "chromadb": "^3.5.0",
+    "ollama": "^0.6.3",
     "playwright": "^1.61.1"
   },
   "devDependencies": {
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.1.1"
   },
-  "scripts": {}
+  "scripts": {
+    "extract-elements": "node change_to_meaning_full_json.js",
+    "store-elements": "node chromaStore.js",
+    "search-locator": "node searchLocator.js",
+    "build-index": "npm run extract-elements && npm run store-elements",
+    "run-locator-flow": "node runLocatorFlow.js"
+  }
 }
