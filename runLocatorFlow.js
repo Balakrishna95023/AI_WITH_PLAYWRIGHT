@@ -23,8 +23,8 @@ main().catch(error => {
 
 `Example Output of above code is as follows:
 
-[Running] node "d:\pycharmRobot\AI_with_playwright\runLocatorFlow.js"
-Created 168 documents at d:\pycharmRobot\AI_with_playwright\elements.json
+[Running] node "d:/pycharmRobot/AI_with_playwright/runLocatorFlow.js"
+Created 168 documents at d:/pycharmRobot/AI_with_playwright/elements.json
 Completed
 Search Query: Find the password button
 AI Generated Locator: #password
