@@ -1,0 +1,7 @@
+echo .env.local >> .gitignore
+echo __pycache__/ >> .gitignore
+.env.local
+.env
+__pycache__/
+*.pyc
+.venv/
